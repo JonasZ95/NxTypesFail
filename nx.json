@@ -29,6 +29,9 @@
     "table-test-e2e": {
       "tags": [],
       "implicitDependencies": ["table-test"]
+    },
+    "tablers": {
+      "tags": []
     }
   }
 }
